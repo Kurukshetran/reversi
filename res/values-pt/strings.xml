@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="preferences_key">com.rvalerio.reversi.prefs</string>
+    
+    <string name="app_name">Reversi</string>
+	<string name="player_wins">Ganhou!</string>
+	<string name="player_loses">Perdeu.</string>
+	<string name="player_ties">Empate.</string>
+	<string name="about">Acerca</string>
+	<string name="easy">Fácil</string>
+	<string name="normal">Normal</string>
+	<string name="hard">Avançado</string>
+	<string name="question_mark">\?</string>
+	<string name="tap_to_restart">Toque para recomeçar</string>
+	<string name="player_win">Ganhou!</string>
+	<string name="player_lost">Perdeu.</string>
+	<string name="player_tie">Empate.</string>
+	<string name="white_wins">Brancas ganharam.</string>
+	<string name="black_wins">Pretas ganharam.</string>
+			
+	<string name="plr1">Jogador 1</string>
+	<string name="plr2">Jogador 2</string>
+	
+	<string name="play_1p">1 Jogador</string>
+	<string name="play_2p">2 Jogadores</string>
+	<string name="rate_us">Avaliar jogo</string>
+	<string name="more_games">Mais jogos</string>
+	<string name="exit">Sair</string>
+	
+	<string name="rate_no_thanks">Não, obrigado.</string>
+	<string name="rate_remind_later">Lembrar mais tarde.</string>
+	<string name="rate_rate">Avaliar</string>
+	<string name="rate_please_take_a_moment_to_rate">Se gosta de jogar Reversi, por favor dedique um minuto para o avaliar. Obrigado pelo seu apoio!</string>
+</resources>
